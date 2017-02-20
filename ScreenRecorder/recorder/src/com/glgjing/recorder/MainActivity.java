@@ -27,7 +27,9 @@ public class MainActivity extends AppCompatActivity {
     private RecordService recordService;
     private Button startBtn;
 
+
     private String sss;
+    private String nnn;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
